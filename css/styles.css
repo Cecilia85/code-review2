@@ -1,0 +1,23 @@
+#Bariloche, #StPetesburgo, #NewYork, #Portland , #Riodejaneiro,
+#BuenosAires, #LosAngeles, #LasVegas{
+
+  display: none;
+}
+
+img{
+  width: 300px;
+  height: 250px;
+  border-radius: 5px;
+}
+.jumbotron{
+  text-align: center;
+}
+
+.container{
+  width: 1200px;
+text-align: center;
+}
+
+.btn{
+  margin-top:30px;
+}
